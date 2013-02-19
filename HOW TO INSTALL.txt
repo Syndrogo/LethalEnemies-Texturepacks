@@ -1,0 +1,12 @@
+___________________________
+
+SPHAX PUREBDCRAFT MOD PATCH
+___________________________
+
+- Close Minecraft
+- Go to the "texturepacks" folder in ".minecraft" folder
+- Open the ZIP file of your version of "Sphax PureBDCraft" texturepack
+- Copy the content of the folder in the ZIP file and paste it inside the texturepack ZIP file
+- Close everything
+- Run Minecraft
+- Enjoy!
